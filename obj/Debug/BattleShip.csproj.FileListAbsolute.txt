@@ -1,0 +1,33 @@
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\bin\Debug\SeaWars.exe.config
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\bin\Debug\SeaWars.exe
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\bin\Debug\SeaWars.pdb
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\BattleShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\SeaWars.Form1.resources
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\SeaWars.exe
+C:\Users\pasha\Source\Repos\SeaWar-csharpp\obj\Debug\SeaWars.pdb
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.exe.config
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.exe
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.pdb
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.Form1.resources
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.exe
+C:\Users\pasha\source\repos\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.pdb
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.exe.config
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.exe
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\bin\Debug\SeaWars.pdb
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.Form1.resources
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.exe
+C:\Users\Lenovo\OneDrive - ДонНУ\Робочий стіл\2022_Humenchuk_P_S_Ind\obj\Debug\SeaWars.pdb
